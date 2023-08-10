@@ -14,6 +14,8 @@
 ![изображение](https://github.com/KirillBodin/ThirdHometask/assets/49336146/0fd5b4b9-b932-4620-92b3-be9f9b8a0e73)
 
 
+start:npm run start
+
 Start PostgreSQL in docker and using PgAdmin or DBeaver tools create a test base and transfer the notes data from the third task there.
 
 It is recommended to create a separate branch for this in the repository with the third task.
